@@ -1,4 +1,6 @@
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+/* Custom styling for precise alignment and appearance matching project specs */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #333;
 }
 
@@ -28,3 +30,4 @@ h1 {
 .card-header-pills .nav-link:hover {
     background-color: #e9ecef;
 }
+
